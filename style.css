@@ -1,0 +1,41 @@
+.sidebar-one{
+    height: 768px;
+    background-color: #ffcccc;
+    font-size: xx-large;
+}
+.section-one{
+    height: 403px;
+    background: #bebebe;
+    margin-bottom: 11px;
+    font-size: xx-large;
+}
+.section-two{
+    height: 353px;
+    background-color: #bebebe;
+    margin-right: -12px;
+    font-size: xx-large;
+}
+.section-three{
+    height: 353px;
+    background-color: #bebebe;
+    font-size: xx-large;
+}
+.end{
+    background-color: #735a43;
+    margin-top: 10px;
+}
+.end p{
+    
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    font-family: sans-serif;
+    padding: 30px;
+}
+.end i{
+    color: white;
+}
+.end a{
+    float: right;
+    padding: 7px;
+}
